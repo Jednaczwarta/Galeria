@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+html{
+    font-family: 'Playfair Display', serif;
+}
+#dyskobol{
+    position: relative;
+    border: 5px double gold;
+    width: 350px;
+    height: auto;
+    transition: width 2s, height 2s;
+}
+#popiersie{
+    border: 5px double gold;
+    width: 350px;
+    height: auto;
+    transition: width 2s, height 2s;
+}
+
+.figura2{
+    
+    width: 350px;
+}
+.figura1{
+    
+    width: 300px;
+}
+.grupa-laokoona{
+    position: relative;
+    border: 5px double gold;
+    width: 350px;
+    height: auto;
+    transition: width 2s, height 2s;
+}
+.figura3{
+    width: 350px;
+}
+.apollo{
+    border: 5px double gold;
+    width: 350px;
+    height: auto;
+    transition: width 2s, height 2s;
+}
+.figura4{
+    width: 350px;
+}
+.atleta{
+    position: relative;
+    border: 5px double gold;
+    width: 350px;
+    height: auto;
+    transition: width 2s, height 2s;
+}
+.figura5{
+    width: 350px;
+}
+.mlodzieniec{
+    border: 5px double gold;
+    width: 350px;
+    height: auto;
+    transition: width 2s, height 2s;
+}
+.figura6{
+    width: 350px;
+}
+#dyskobol:hover{
+    width: 450px;
+    height: auto;
+}
+#popiersie:hover{
+    width: 450px;
+    height: auto;
+}
+.grupa-laokoona:hover{
+    width: 450px;
+    height: auto;
+}
+.apollo:hover{
+    width: 450px;
+    height: auto;
+}
+.atleta:hover{
+    width: 450px;
+    height: auto;
+}
+.mlodzieniec:hover{
+    width: 450px;
+    height: auto;
+}
